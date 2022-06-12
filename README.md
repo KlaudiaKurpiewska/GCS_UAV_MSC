@@ -1,5 +1,5 @@
 # GCS_UAV_MSC
-This C# project was a part of my Master of Science thesis "Design of software for displaying flight parameters of the unmanned platform"
+This C# project was a part of my Master of Science thesis "Design of software for displaying flight parameters of the unmanned platform".
 My Master of Science thesis abstract:
 Despite continuous efforts to increase the level of autonomy of unmanned aerial systems, there is still no fully autonomous solution, and an essential link in the process of system control is a man - the system operator. Therefore, it is important that the information reaching the operator through the information display system of the control station is presented in an appropriate way, so that the operator can make the right decisions about the control of the unmanned system on its basis. The above-mentioned issues are described in the literature by the concept of human-machine interface and constitute the foundation on which the design process of the control station and its software is based.
 The interest in the presented problems was the motivation to undertake the topic of the master thesis, the scope of which included issues related to the construction and software of the control station, in particular the information display systems implemented in their structure.
