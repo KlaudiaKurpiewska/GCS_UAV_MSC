@@ -1,0 +1,135 @@
+C:\Users\Klaudia\Desktop\ProjektPROBA\Avionics\bin\Debug\Avionics.exe.config
+C:\Users\Klaudia\Desktop\ProjektPROBA\Avionics\bin\Debug\Avionics.exe
+C:\Users\Klaudia\Desktop\ProjektPROBA\Avionics\bin\Debug\Avionics.pdb
+C:\Users\Klaudia\Desktop\ProjektPROBA\Avionics\obj\Debug\Avionics.csprojAssemblyReference.cache
+C:\Users\Klaudia\Desktop\ProjektPROBA\Avionics\obj\Debug\Avionics.Properties.Resources.resources
+C:\Users\Klaudia\Desktop\ProjektPROBA\Avionics\obj\Debug\Avionics.AvionicsResources.resources
+C:\Users\Klaudia\Desktop\ProjektPROBA\Avionics\obj\Debug\Avionics.csproj.GenerateResource.cache
+C:\Users\Klaudia\Desktop\ProjektPROBA\Avionics\obj\Debug\Avionics.csproj.CoreCompileInputs.cache
+C:\Users\Klaudia\Desktop\ProjektPROBA\Avionics\obj\Debug\Avionics.exe
+C:\Users\Klaudia\Desktop\ProjektPROBA\Avionics\obj\Debug\Avionics.pdb
+C:\Users\Klaudia\Desktop\ProjektPROBA\Avionics\obj\Debug\Avionics.Form1.resources
+C:\Users\Klaudia\Desktop\ProjektPROBA\Avionics\bin\Debug\EntityFramework.dll
+C:\Users\Klaudia\Desktop\ProjektPROBA\Avionics\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Klaudia\Desktop\ProjektPROBA\Avionics\bin\Debug\GMap.NET.Core.dll
+C:\Users\Klaudia\Desktop\ProjektPROBA\Avionics\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\Klaudia\Desktop\ProjektPROBA\Avionics\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\Klaudia\Desktop\ProjektPROBA\Avionics\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Klaudia\Desktop\ProjektPROBA\Avionics\bin\Debug\System.Data.SQLite.dll
+C:\Users\Klaudia\Desktop\ProjektPROBA\Avionics\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Klaudia\Desktop\ProjektPROBA\Avionics\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Klaudia\Desktop\ProjektPROBA\Avionics\bin\Debug\EntityFramework.xml
+C:\Users\Klaudia\Desktop\ProjektPROBA\Avionics\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Klaudia\Desktop\ProjektPROBA\Avionics\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Klaudia\Desktop\ProjektPROBA\Avionics\bin\Debug\System.Data.SQLite.xml
+C:\Users\Klaudia\Desktop\ProjektPROBA\Avionics\obj\Debug\Avionics.csproj.CopyComplete
+C:\Users\Klaudia\Desktop\ProjektPROBA\Avionics\bin\Debug\AvionicsResources.resx
+C:\Users\Klaudia\Desktop\ProjektPROBA\Avionics\bin\Debug\AvionicsResources.Designer.cs
+C:\Users\Klaudia\Desktop\Projekt\Avionics\bin\Debug\AvionicsResources.resx
+C:\Users\Klaudia\Desktop\Projekt\Avionics\bin\Debug\AvionicsResources.Designer.cs
+C:\Users\Klaudia\Desktop\Projekt\Avionics\bin\Debug\Avionics.exe.config
+C:\Users\Klaudia\Desktop\Projekt\Avionics\bin\Debug\Avionics.exe
+C:\Users\Klaudia\Desktop\Projekt\Avionics\bin\Debug\Avionics.pdb
+C:\Users\Klaudia\Desktop\Projekt\Avionics\bin\Debug\EntityFramework.dll
+C:\Users\Klaudia\Desktop\Projekt\Avionics\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Klaudia\Desktop\Projekt\Avionics\bin\Debug\GMap.NET.Core.dll
+C:\Users\Klaudia\Desktop\Projekt\Avionics\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\Klaudia\Desktop\Projekt\Avionics\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\Klaudia\Desktop\Projekt\Avionics\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Klaudia\Desktop\Projekt\Avionics\bin\Debug\System.Data.SQLite.dll
+C:\Users\Klaudia\Desktop\Projekt\Avionics\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Klaudia\Desktop\Projekt\Avionics\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Klaudia\Desktop\Projekt\Avionics\bin\Debug\EntityFramework.xml
+C:\Users\Klaudia\Desktop\Projekt\Avionics\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Klaudia\Desktop\Projekt\Avionics\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Klaudia\Desktop\Projekt\Avionics\bin\Debug\System.Data.SQLite.xml
+C:\Users\Klaudia\Desktop\Projekt\Avionics\obj\Debug\Avionics.csprojAssemblyReference.cache
+C:\Users\Klaudia\Desktop\Projekt\Avionics\obj\Debug\Avionics.Form1.resources
+C:\Users\Klaudia\Desktop\Projekt\Avionics\obj\Debug\Avionics.Properties.Resources.resources
+C:\Users\Klaudia\Desktop\Projekt\Avionics\obj\Debug\Avionics.AvionicsResources.resources
+C:\Users\Klaudia\Desktop\Projekt\Avionics\obj\Debug\Avionics.csproj.GenerateResource.cache
+C:\Users\Klaudia\Desktop\Projekt\Avionics\obj\Debug\Avionics.csproj.CoreCompileInputs.cache
+C:\Users\Klaudia\Desktop\Projekt\Avionics\obj\Debug\Avionics.csproj.CopyComplete
+C:\Users\Klaudia\Desktop\Projekt\Avionics\obj\Debug\Avionics.exe
+C:\Users\Klaudia\Desktop\Projekt\Avionics\obj\Debug\Avionics.pdb
+C:\Users\Klaudia\Desktop\Proba\Avionics_realtime\obj\Debug\Avionics.csprojAssemblyReference.cache
+C:\Users\Klaudia\Desktop\Proba\Avionics_realtime\obj\Debug\Avionics.Form1.resources
+C:\Users\Klaudia\Desktop\Proba\Avionics_realtime\obj\Debug\Avionics.Properties.Resources.resources
+C:\Users\Klaudia\Desktop\Proba\Avionics_realtime\obj\Debug\Avionics.AvionicsResources.resources
+C:\Users\Klaudia\Desktop\Proba\Avionics_realtime\obj\Debug\Avionics.csproj.GenerateResource.cache
+C:\Users\Klaudia\Desktop\Proba\Avionics_realtime\obj\Debug\Avionics.csproj.CoreCompileInputs.cache
+C:\Users\Klaudia\Desktop\Proba\Avionics_realtime\obj\Debug\Avionics.exe
+C:\Users\Klaudia\Desktop\Proba\Avionics_realtime\obj\Debug\Avionics.pdb
+C:\Users\Klaudia\Desktop\Proba\Avionics_realtime\bin\Debug\AvionicsResources.resx
+C:\Users\Klaudia\Desktop\Proba\Avionics_realtime\bin\Debug\AvionicsResources.Designer.cs
+C:\Users\Klaudia\Desktop\Proba\Avionics_realtime\bin\Debug\Avionics.exe.config
+C:\Users\Klaudia\Desktop\Proba\Avionics_realtime\bin\Debug\Avionics.exe
+C:\Users\Klaudia\Desktop\Proba\Avionics_realtime\bin\Debug\Avionics.pdb
+C:\Users\Klaudia\Desktop\Proba\Avionics_realtime\bin\Debug\EntityFramework.dll
+C:\Users\Klaudia\Desktop\Proba\Avionics_realtime\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Klaudia\Desktop\Proba\Avionics_realtime\bin\Debug\GMap.NET.Core.dll
+C:\Users\Klaudia\Desktop\Proba\Avionics_realtime\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\Klaudia\Desktop\Proba\Avionics_realtime\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\Klaudia\Desktop\Proba\Avionics_realtime\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Klaudia\Desktop\Proba\Avionics_realtime\bin\Debug\System.Data.SQLite.dll
+C:\Users\Klaudia\Desktop\Proba\Avionics_realtime\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Klaudia\Desktop\Proba\Avionics_realtime\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Klaudia\Desktop\Proba\Avionics_realtime\bin\Debug\EntityFramework.xml
+C:\Users\Klaudia\Desktop\Proba\Avionics_realtime\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Klaudia\Desktop\Proba\Avionics_realtime\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Klaudia\Desktop\Proba\Avionics_realtime\bin\Debug\System.Data.SQLite.xml
+C:\Users\Klaudia\Desktop\Proba\Avionics_realtime\obj\Debug\Avionics.csproj.CopyComplete
+C:\Users\Klaudia\Desktop\Avionics_realtime\bin\Debug\AvionicsResources.resx
+C:\Users\Klaudia\Desktop\Avionics_realtime\bin\Debug\AvionicsResources.Designer.cs
+C:\Users\Klaudia\Desktop\Avionics_realtime\bin\Debug\Avionics.exe.config
+C:\Users\Klaudia\Desktop\Avionics_realtime\bin\Debug\Avionics.exe
+C:\Users\Klaudia\Desktop\Avionics_realtime\bin\Debug\Avionics.pdb
+C:\Users\Klaudia\Desktop\Avionics_realtime\bin\Debug\EntityFramework.dll
+C:\Users\Klaudia\Desktop\Avionics_realtime\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Klaudia\Desktop\Avionics_realtime\bin\Debug\GMap.NET.Core.dll
+C:\Users\Klaudia\Desktop\Avionics_realtime\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\Klaudia\Desktop\Avionics_realtime\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\Klaudia\Desktop\Avionics_realtime\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Klaudia\Desktop\Avionics_realtime\bin\Debug\System.Data.SQLite.dll
+C:\Users\Klaudia\Desktop\Avionics_realtime\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Klaudia\Desktop\Avionics_realtime\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Klaudia\Desktop\Avionics_realtime\bin\Debug\EntityFramework.xml
+C:\Users\Klaudia\Desktop\Avionics_realtime\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Klaudia\Desktop\Avionics_realtime\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Klaudia\Desktop\Avionics_realtime\bin\Debug\System.Data.SQLite.xml
+C:\Users\Klaudia\Desktop\Avionics_realtime\obj\Debug\Avionics.csprojAssemblyReference.cache
+C:\Users\Klaudia\Desktop\Avionics_realtime\obj\Debug\Avionics.Properties.Resources.resources
+C:\Users\Klaudia\Desktop\Avionics_realtime\obj\Debug\Avionics.AvionicsResources.resources
+C:\Users\Klaudia\Desktop\Avionics_realtime\obj\Debug\Avionics.csproj.GenerateResource.cache
+C:\Users\Klaudia\Desktop\Avionics_realtime\obj\Debug\Avionics.csproj.CoreCompileInputs.cache
+C:\Users\Klaudia\Desktop\Avionics_realtime\obj\Debug\Avionics.csproj.CopyComplete
+C:\Users\Klaudia\Desktop\Avionics_realtime\obj\Debug\Avionics.exe
+C:\Users\Klaudia\Desktop\Avionics_realtime\obj\Debug\Avionics.pdb
+C:\Users\Klaudia\Desktop\Avionics_realtime\obj\Debug\Avionics.AvionicsDisplay.resources
+D:\W A T\MAGISTERSKIE\PRACA MAGISTERSKA\PRACA MAGISTERSKA\Projekt_Csh\Avionics_realtime\bin\Debug\AvionicsResources.resx
+D:\W A T\MAGISTERSKIE\PRACA MAGISTERSKA\PRACA MAGISTERSKA\Projekt_Csh\Avionics_realtime\bin\Debug\AvionicsResources.Designer.cs
+D:\W A T\MAGISTERSKIE\PRACA MAGISTERSKA\PRACA MAGISTERSKA\Projekt_Csh\Avionics_realtime\bin\Debug\Avionics.exe.config
+D:\W A T\MAGISTERSKIE\PRACA MAGISTERSKA\PRACA MAGISTERSKA\Projekt_Csh\Avionics_realtime\bin\Debug\Avionics.exe
+D:\W A T\MAGISTERSKIE\PRACA MAGISTERSKA\PRACA MAGISTERSKA\Projekt_Csh\Avionics_realtime\bin\Debug\Avionics.pdb
+D:\W A T\MAGISTERSKIE\PRACA MAGISTERSKA\PRACA MAGISTERSKA\Projekt_Csh\Avionics_realtime\bin\Debug\EntityFramework.dll
+D:\W A T\MAGISTERSKIE\PRACA MAGISTERSKA\PRACA MAGISTERSKA\Projekt_Csh\Avionics_realtime\bin\Debug\EntityFramework.SqlServer.dll
+D:\W A T\MAGISTERSKIE\PRACA MAGISTERSKA\PRACA MAGISTERSKA\Projekt_Csh\Avionics_realtime\bin\Debug\GMap.NET.Core.dll
+D:\W A T\MAGISTERSKIE\PRACA MAGISTERSKA\PRACA MAGISTERSKA\Projekt_Csh\Avionics_realtime\bin\Debug\GMap.NET.WindowsForms.dll
+D:\W A T\MAGISTERSKIE\PRACA MAGISTERSKA\PRACA MAGISTERSKA\Projekt_Csh\Avionics_realtime\bin\Debug\GMap.NET.WindowsPresentation.dll
+D:\W A T\MAGISTERSKIE\PRACA MAGISTERSKA\PRACA MAGISTERSKA\Projekt_Csh\Avionics_realtime\bin\Debug\Newtonsoft.Json.dll
+D:\W A T\MAGISTERSKIE\PRACA MAGISTERSKA\PRACA MAGISTERSKA\Projekt_Csh\Avionics_realtime\bin\Debug\System.Data.SQLite.dll
+D:\W A T\MAGISTERSKIE\PRACA MAGISTERSKA\PRACA MAGISTERSKA\Projekt_Csh\Avionics_realtime\bin\Debug\System.Data.SQLite.EF6.dll
+D:\W A T\MAGISTERSKIE\PRACA MAGISTERSKA\PRACA MAGISTERSKA\Projekt_Csh\Avionics_realtime\bin\Debug\System.Data.SQLite.Linq.dll
+D:\W A T\MAGISTERSKIE\PRACA MAGISTERSKA\PRACA MAGISTERSKA\Projekt_Csh\Avionics_realtime\bin\Debug\EntityFramework.xml
+D:\W A T\MAGISTERSKIE\PRACA MAGISTERSKA\PRACA MAGISTERSKA\Projekt_Csh\Avionics_realtime\bin\Debug\EntityFramework.SqlServer.xml
+D:\W A T\MAGISTERSKIE\PRACA MAGISTERSKA\PRACA MAGISTERSKA\Projekt_Csh\Avionics_realtime\bin\Debug\Newtonsoft.Json.xml
+D:\W A T\MAGISTERSKIE\PRACA MAGISTERSKA\PRACA MAGISTERSKA\Projekt_Csh\Avionics_realtime\bin\Debug\System.Data.SQLite.xml
+D:\W A T\MAGISTERSKIE\PRACA MAGISTERSKA\PRACA MAGISTERSKA\Projekt_Csh\Avionics_realtime\obj\Debug\Avionics.csprojAssemblyReference.cache
+D:\W A T\MAGISTERSKIE\PRACA MAGISTERSKA\PRACA MAGISTERSKA\Projekt_Csh\Avionics_realtime\obj\Debug\Avionics.AvionicsDisplay.resources
+D:\W A T\MAGISTERSKIE\PRACA MAGISTERSKA\PRACA MAGISTERSKA\Projekt_Csh\Avionics_realtime\obj\Debug\Avionics.Properties.Resources.resources
+D:\W A T\MAGISTERSKIE\PRACA MAGISTERSKA\PRACA MAGISTERSKA\Projekt_Csh\Avionics_realtime\obj\Debug\Avionics.AvionicsResources.resources
+D:\W A T\MAGISTERSKIE\PRACA MAGISTERSKA\PRACA MAGISTERSKA\Projekt_Csh\Avionics_realtime\obj\Debug\Avionics.csproj.GenerateResource.cache
+D:\W A T\MAGISTERSKIE\PRACA MAGISTERSKA\PRACA MAGISTERSKA\Projekt_Csh\Avionics_realtime\obj\Debug\Avionics.csproj.CoreCompileInputs.cache
+D:\W A T\MAGISTERSKIE\PRACA MAGISTERSKA\PRACA MAGISTERSKA\Projekt_Csh\Avionics_realtime\obj\Debug\Avionics.csproj.CopyComplete
+D:\W A T\MAGISTERSKIE\PRACA MAGISTERSKA\PRACA MAGISTERSKA\Projekt_Csh\Avionics_realtime\obj\Debug\Avionics.exe
+D:\W A T\MAGISTERSKIE\PRACA MAGISTERSKA\PRACA MAGISTERSKA\Projekt_Csh\Avionics_realtime\obj\Debug\Avionics.pdb
